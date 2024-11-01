@@ -1,0 +1,875 @@
+
+11/01 07:47:46 [[1;32mNOTICE[0m] Downloading 279 item(s)
+
+11/01 07:47:47 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_B03.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:47 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_D02.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:47 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_E06.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:47 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_E07.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:47 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_H09.annotated.nh.vcf.gz.tbi
+[DL:26MiB][#2cc824 2.0MiB/2.6MiB(78%)][#2b3b7e 2.2MiB/2.6MiB(85%)][#3e135e 1.6MiB/2.6MiB(64%)][#6be379 656KiB/2.6MiB(24%)][#2fb4e4 0B/0B]
+
+11/01 07:47:47 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G03.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:47 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_F04.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:48 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_C11.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:48 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_C04.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:48 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_A02.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:48 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_B04.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:48 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_A08.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:48 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_B08.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:48 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B01.annotated.nh.vcf.gz.tbi
+[DL:21MiB][#71d92e 1.5MiB/2.6MiB(58%)][#b679b2 384KiB/2.6MiB(14%)][#b0286b 144KiB/2.6MiB(5%)][#ee65da 0B/0B][#ba854a 0B/0B]
+
+11/01 07:47:48 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B07.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:49 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_H02.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:49 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B12.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:49 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_H04.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:49 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004476.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:49 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_A11.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:49 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B09.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:49 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004477.annotated.nh.vcf.gz.tbi
+[DL:22MiB][#dd00ec 1.8MiB/2.6MiB(72%)][#b1c918 1.2MiB/2.6MiB(49%)][#7f9bf5 1.1MiB/2.6MiB(42%)][#ff06b8 512KiB/2.6MiB(19%)][#095a12 0B/0B]
+
+11/01 07:47:49 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_D04.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:49 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H02.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:50 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G06.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:50 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_A12.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:50 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_F09.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:50 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004470.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:50 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A03.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:50 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_H03.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:50 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C03.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:50 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B08.annotated.nh.vcf.gz.tbi
+[DL:22MiB][#4b9cdc 1.6MiB/2.6MiB(64%)][#5db0c4 576KiB/2.6MiB(21%)][#25e709 0B/0B][#4a5910 0B/0B][#23c74a 0B/0B]
+
+11/01 07:47:50 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_A03.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:51 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_E11.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:51 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004474.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:51 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H03.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:51 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_C10.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:51 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004468.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:51 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004469.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:51 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_A10.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:51 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_B01.annotated.nh.vcf.gz.tbi
+[DL:21MiB][#27fbc6 400KiB/2.6MiB(14%)][#c8040a 0B/0B][#2a978c 0B/0B][#c5d644 0B/0B][#4aa60b 0B/0B]
+
+11/01 07:47:51 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D11.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:52 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H10.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:52 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G02.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:52 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A01.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:52 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B03.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:52 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F04.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:52 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G11.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:52 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_E07.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:52 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D07.annotated.nh.vcf.gz.tbi
+[DL:22MiB][#94cad5 1.8MiB/2.6MiB(70%)][#c67315 1.5MiB/2.6MiB(59%)][#ccbab7 112KiB/2.6MiB(4%)][#876e30 0B/0B][#da1416 0B/0B]
+
+11/01 07:47:53 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_B12.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:53 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D02.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:53 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F08.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:53 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D09.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:53 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B03.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:53 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_E04.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:53 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B02.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:53 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C02.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:53 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F06.annotated.nh.vcf.gz.tbi
+[DL:22MiB][#6d4c53 2.0MiB/2.6MiB(79%)][#2b2cb9 1.6MiB/2.6MiB(61%)][#d0a71d 112KiB/2.6MiB(4%)][#253890 0B/0B][#0257bc 0B/0B]
+
+11/01 07:47:54 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G07.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:54 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H05.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:54 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004480.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:54 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H06.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:54 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D03.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:54 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H08.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:54 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C08.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:54 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E08.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:54 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_C02.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:54 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_E10.annotated.nh.vcf.gz.tbi
+[DL:22MiB][#5e79de 1.8MiB/2.6MiB(69%)][#ab6843 64KiB/2.6MiB(2%)][#ad2c12 64KiB/2.6MiB(2%)][#40ce0b 0B/0B][#87dd0c 0B/0B]
+
+11/01 07:47:55 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_H10.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:55 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F01.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:55 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_A04.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:55 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C11.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:55 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_G11.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:55 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G03.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:55 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_G08.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:55 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_G01.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:56 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_A12.annotated.nh.vcf.gz.tbi
+[DL:22MiB][#43c850 1.2MiB/2.6MiB(48%)][#755e61 432KiB/2.6MiB(16%)][#14f9d4 0B/0B][#ae57f1 0B/0B][#9346e4 0B/0B]
+
+11/01 07:47:56 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E06.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:56 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_C09.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:56 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G04.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:56 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G08.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:56 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_D11.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:56 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004472.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:56 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_A02.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:56 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_H03.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:56 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_D01.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:57 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_B02.annotated.nh.vcf.gz.tbi
+[DL:23MiB][#e227e3 2.5MiB/2.6MiB(97%)][#e81427 0.9MiB/2.6MiB(36%)][#6d8194 560KiB/2.6MiB(20%)][#b49500 0B/0B][#6e37b0 0B/0B]
+
+11/01 07:47:57 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D09.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:57 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E09.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:57 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D04.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:57 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_H08.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:57 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_C04.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:57 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C09.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:57 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_H11.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:57 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A09.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:58 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_F11.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:58 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_B11.annotated.nh.vcf.gz.tbi
+[DL:22MiB][#caa0b1 880KiB/2.6MiB(33%)][#dedff8 112KiB/2.6MiB(4%)][#aa6125 0B/0B][#bb03ef 0B/0B][#99ec44 0B/0B]
+
+11/01 07:47:58 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_E09.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:58 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G04.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:58 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004473.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:58 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_D09.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:58 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G12.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:58 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004467.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:58 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_C07.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:59 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C07.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:59 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F07.annotated.nh.vcf.gz.tbi
+[DL:23MiB][#0fc94f 2.3MiB/2.6MiB(89%)][#14ef8d 288KiB/2.6MiB(10%)][#1bef6b 0B/0B][#cd6c71 0B/0B][#1b3ef2 0B/0B]
+
+11/01 07:47:59 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G02.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:59 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004471.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:59 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E10.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:59 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_E02.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:59 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G11.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:59 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B01.annotated.nh.vcf.gz.tbi
+
+11/01 07:47:59 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B09.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:00 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_A02.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:00 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005619-DNA_B01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:00 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_F02.annotated.nh.vcf.gz.tbi
+[DL:23MiB][#53c5ae 2.1MiB/2.6MiB(82%)][#ef1fc3 2.2MiB/2.6MiB(85%)][#39b3f1 0B/0B][#fa45ac 0B/0B][#370caa 0B/0B]
+
+11/01 07:48:00 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_D10.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:00 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G07.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:00 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B11.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:00 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D07.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:00 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_G04.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:00 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_E10.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:01 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_G03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:01 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F02.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:01 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E02.annotated.nh.vcf.gz.tbi
+[DL:23MiB][#096d07 1.8MiB/2.6MiB(70%)][#e47661 2.2MiB/2.6MiB(87%)][#4167a8 1.4MiB/2.6MiB(57%)][#4d8fbb 0B/0B][#d8b4cd 0B/0B]
+
+11/01 07:48:01 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A04.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:01 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:01 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D02.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:01 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H09.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:01 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_A05.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:01 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004478.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:02 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_E06.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:02 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_E12.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:02 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F08.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:02 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D10.annotated.nh.vcf.gz.tbi
+[DL:23MiB][#a719c8 1.7MiB/2.6MiB(66%)][#2e0e85 576KiB/2.6MiB(21%)][#0475b0 0B/0B][#e55ca0 0B/0B][#b54945 0B/0B]
+
+11/01 07:48:02 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_C06.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:02 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C10.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:02 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D04.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:02 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_B04.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:02 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_B03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:03 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004475.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:03 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_D03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:03 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_D03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:03 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_C08.annotated.nh.vcf.gz.tbi
+[DL:23MiB][#e46998 1.6MiB/2.6MiB(64%)][#8570a9 464KiB/2.6MiB(17%)][#26915a 160KiB/2.6MiB(6%)][#ba70a8 0B/0B][#735b01 0B/0B]
+
+11/01 07:48:03 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_C03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:03 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A12.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:03 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_A06.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:03 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_F12.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:03 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F09.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:03 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F02.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:04 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_D01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:04 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G09.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:04 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F06.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:04 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E05.annotated.nh.vcf.gz.tbi
+[DL:23MiB][#53b620 1.0MiB/2.6MiB(42%)][#6df111 496KiB/2.6MiB(18%)][#22cac8 0B/0B][#109c28 0B/0B][#ff1f03 0B/0B]
+
+11/01 07:48:04 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_H03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:04 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H12.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:04 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G09.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:04 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_D08.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:04 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_G02.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:05 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F07.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:05 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_F01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:05 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:05 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_H05.annotated.nh.vcf.gz.tbi
+[DL:23MiB][#b69044 2.0MiB/2.6MiB(78%)][#53c111 1.7MiB/2.6MiB(66%)][#fd129a 0B/0B][#dde372 0B/0B][#f3ca08 0B/0B]
+
+11/01 07:48:05 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_E03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:05 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_E02.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:05 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:05 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_H11.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:05 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H11.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:06 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_B02.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:06 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D06.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:06 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D12.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:06 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A05.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:06 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_F03.annotated.nh.vcf.gz.tbi
+[DL:23MiB][#0acd60 704KiB/2.6MiB(26%)][#c34dd1 0B/0B][#ee3a3f 0B/0B][#700ca4 0B/0B][#edd329 0B/0B]
+
+11/01 07:48:06 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_D03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:06 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_A01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:06 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_A03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:06 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B08.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:07 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F10.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:07 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_F04.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:07 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_E05.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:07 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_A04.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:07 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E11.annotated.nh.vcf.gz.tbi
+[DL:23MiB][#03d2eb 2.4MiB/2.6MiB(93%)][#2a767c 1.5MiB/2.6MiB(61%)][#c729cd 0B/0B][#24136a 0B/0B][#a98e3e 0B/0B]
+
+11/01 07:48:07 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C05.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:07 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_H12.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:07 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B04.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:07 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_E08.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:08 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_H07.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:08 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H07.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:08 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_F10.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:08 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D06.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:08 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_D01.annotated.nh.vcf.gz.tbi
+[DL:23MiB][#c8bc7e 1.9MiB/2.6MiB(73%)][#474e54 736KiB/2.6MiB(27%)][#d49f27 0B/2.6MiB(0%)][#c1df04 0B/2.6MiB(0%)][#07a247 0B/0B]
+
+11/01 07:48:08 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D08.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:08 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_A07.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:08 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_C01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:08 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A10.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:09 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_C03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:09 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_B04.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:09 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_B10.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:09 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F11.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:09 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_G04.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:09 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_G03.annotated.nh.vcf.gz.tbi
+[DL:23MiB][#0dd2fb 1.7MiB/2.6MiB(68%)][#ad8bd4 2.1MiB/2.6MiB(82%)][#e0711d 0B/0B][#825761 0B/0B][#6b3222 0B/0B]
+
+11/01 07:48:09 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G10.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:09 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6007069-DNA_A01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:09 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_C05.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:09 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A11.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:10 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_A03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:10 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_D03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:10 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_A06.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:10 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6007068-DNA_A01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:10 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_F01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:10 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G10.annotated.nh.vcf.gz.tbi
+[DL:23MiB][#deed30 0.9MiB/2.6MiB(34%)][#3d46d7 400KiB/2.6MiB(15%)][#d78cb9 0B/0B][#c14423 0B/0B][#4d9246 0B/0B]
+
+11/01 07:48:10 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_G01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:10 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_A08.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:10 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_A04.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:10 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B10.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:11 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005619-DNA_C01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:11 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A08.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:11 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G05.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:11 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_G05.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:11 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_C05.annotated.nh.vcf.gz.tbi
+[DL:23MiB][#751201 1.1MiB/2.6MiB(45%)][#4d1600 496KiB/2.6MiB(18%)][#0e216c 480KiB/2.6MiB(18%)][#da5660 0B/2.6MiB(0%)][#d50125 0B/0B]
+
+11/01 07:48:11 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_E04.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:11 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_F03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:11 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_A02.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:11 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:12 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004479.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:12 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_B01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:12 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_D04.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:12 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F04.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:12 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D08.annotated.nh.vcf.gz.tbi
+[DL:24MiB][#ba414a 2.3MiB/2.6MiB(90%)][#d6e6bb 1.5MiB/2.6MiB(59%)][#394119 0B/0B][#8794f4 0B/0B][#b2c0bc 0B/0B]
+
+11/01 07:48:12 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_B05.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:12 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D05.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:12 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_H01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:12 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B05.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:13 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_D06.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:13 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:13 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B04.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:13 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_E01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:13 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_C02.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:13 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_G03.annotated.nh.vcf.gz.tbi
+[DL:24MiB][#4c4dcf 2.5MiB/2.6MiB(97%)][#14f6c7 2.4MiB/2.6MiB(93%)][#458093 208KiB/2.6MiB(7%)][#ec952b 0B/0B][#174389 0B/0B]
+
+11/01 07:48:13 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_C04.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:13 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_H01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:13 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_C02.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:14 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:14 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B06.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:14 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_C03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:14 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_F06.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:14 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_B01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:14 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:14 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_F01.annotated.nh.vcf.gz.tbi
+[DL:24MiB][#7a361e 1.4MiB/2.6MiB(55%)][#58e456 528KiB/2.6MiB(19%)][#ebb444 0B/0B][#857468 0B/0B][#bacdc3 0B/0B]
+
+11/01 07:48:14 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_G01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:14 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_H04.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:14 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_H01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:15 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:15 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B10.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:15 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_C03.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:15 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_B06.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:15 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_E05.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:15 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B02.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:15 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_B02.annotated.nh.vcf.gz.tbi
+[DL:23MiB][#f4255e 64KiB/2.6MiB(2%)][#14f87e 64KiB/2.6MiB(2%)][#1a7287 80KiB/2.6MiB(3%)][#3cd684 0B/0B][#43bb12 0B/0B]
+
+11/01 07:48:15 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F05.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:15 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_C07.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:16 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_D01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:16 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_E01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:16 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E01.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:16 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E07.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:16 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D05.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:16 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A06.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:16 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F12.annotated.nh.vcf.gz.tbi
+[DL:24MiB][#86f1ae 1.2MiB/2.6MiB(48%)][#18a076 400KiB/2.6MiB(15%)][#ad5e6e 0B/0B][#d51fc8 0B/0B][#d1cc13 0B/0B]
+
+11/01 07:48:16 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_G02.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:16 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B07.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:17 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_D05.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:17 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C06.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:17 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_C06.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:17 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F10.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:17 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G12.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:17 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_G07.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:17 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B06.annotated.nh.vcf.gz.tbi
+
+11/01 07:48:17 [[1;32mNOTICE[0m] Download complete: /data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_H03.annotated.nh.vcf.gz.tbi
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+816fbe|OK  |    18MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_B03.annotated.nh.vcf.gz.tbi
+c39e35|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_D02.annotated.nh.vcf.gz.tbi
+157705|OK  |   6.6MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_E06.annotated.nh.vcf.gz.tbi
+e62aa8|OK  |   6.2MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_E07.annotated.nh.vcf.gz.tbi
+8f0480|OK  |   5.1MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_H09.annotated.nh.vcf.gz.tbi
+2b3b7e|OK  |   9.6MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G03.annotated.nh.vcf.gz.tbi
+2cc824|OK  |   6.8MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_F04.annotated.nh.vcf.gz.tbi
+3e135e|OK  |   8.2MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_C11.annotated.nh.vcf.gz.tbi
+6be379|OK  |   6.3MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_C04.annotated.nh.vcf.gz.tbi
+2fb4e4|OK  |   6.7MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_A02.annotated.nh.vcf.gz.tbi
+85f826|OK  |   9.6MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_B04.annotated.nh.vcf.gz.tbi
+ba3335|OK  |   9.7MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_A08.annotated.nh.vcf.gz.tbi
+262ecb|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_B08.annotated.nh.vcf.gz.tbi
+924227|OK  |   7.6MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B01.annotated.nh.vcf.gz.tbi
+71d92e|OK  |   9.6MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B07.annotated.nh.vcf.gz.tbi
+b679b2|OK  |   6.6MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_H02.annotated.nh.vcf.gz.tbi
+b0286b|OK  |   6.2MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B12.annotated.nh.vcf.gz.tbi
+ee65da|OK  |   6.9MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_H04.annotated.nh.vcf.gz.tbi
+ba854a|OK  |   7.4MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004476.annotated.nh.vcf.gz.tbi
+772b13|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_A11.annotated.nh.vcf.gz.tbi
+25ca66|OK  |   9.2MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B09.annotated.nh.vcf.gz.tbi
+c75fcc|OK  |   9.1MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004477.annotated.nh.vcf.gz.tbi
+dd00ec|OK  |   9.9MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_D04.annotated.nh.vcf.gz.tbi
+b1c918|OK  |   9.5MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H02.annotated.nh.vcf.gz.tbi
+7f9bf5|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G06.annotated.nh.vcf.gz.tbi
+ff06b8|OK  |   8.2MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_A12.annotated.nh.vcf.gz.tbi
+095a12|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_F09.annotated.nh.vcf.gz.tbi
+0c5659|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004470.annotated.nh.vcf.gz.tbi
+860afb|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A03.annotated.nh.vcf.gz.tbi
+615f85|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_H03.annotated.nh.vcf.gz.tbi
+de9831|OK  |   9.9MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C03.annotated.nh.vcf.gz.tbi
+d3707a|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B08.annotated.nh.vcf.gz.tbi
+4b9cdc|OK  |   8.4MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_A03.annotated.nh.vcf.gz.tbi
+5db0c4|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_E11.annotated.nh.vcf.gz.tbi
+25e709|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004474.annotated.nh.vcf.gz.tbi
+4a5910|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H03.annotated.nh.vcf.gz.tbi
+23c74a|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_C10.annotated.nh.vcf.gz.tbi
+6a2264|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004468.annotated.nh.vcf.gz.tbi
+ce494e|OK  |   9.7MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004469.annotated.nh.vcf.gz.tbi
+5f0bd6|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_A10.annotated.nh.vcf.gz.tbi
+786fcb|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_B01.annotated.nh.vcf.gz.tbi
+27fbc6|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D11.annotated.nh.vcf.gz.tbi
+c8040a|OK  |    20MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H10.annotated.nh.vcf.gz.tbi
+2a978c|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G02.annotated.nh.vcf.gz.tbi
+c5d644|OK  |    17MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A01.annotated.nh.vcf.gz.tbi
+4aa60b|OK  |   8.6MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B03.annotated.nh.vcf.gz.tbi
+3d8caa|OK  |   9.5MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F04.annotated.nh.vcf.gz.tbi
+9316e9|OK  |   7.4MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G11.annotated.nh.vcf.gz.tbi
+520e78|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_E07.annotated.nh.vcf.gz.tbi
+85af9d|OK  |    18MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D07.annotated.nh.vcf.gz.tbi
+94cad5|OK  |    17MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_B12.annotated.nh.vcf.gz.tbi
+c67315|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D02.annotated.nh.vcf.gz.tbi
+ccbab7|OK  |   7.2MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F08.annotated.nh.vcf.gz.tbi
+876e30|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D09.annotated.nh.vcf.gz.tbi
+da1416|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B03.annotated.nh.vcf.gz.tbi
+69cffe|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_E04.annotated.nh.vcf.gz.tbi
+81b4c0|OK  |   7.9MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B02.annotated.nh.vcf.gz.tbi
+96e83d|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C02.annotated.nh.vcf.gz.tbi
+9c1ee3|OK  |    17MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F06.annotated.nh.vcf.gz.tbi
+6d4c53|OK  |   7.0MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G07.annotated.nh.vcf.gz.tbi
+2b2cb9|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H05.annotated.nh.vcf.gz.tbi
+d0a71d|OK  |   7.1MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004480.annotated.nh.vcf.gz.tbi
+253890|OK  |   8.4MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H06.annotated.nh.vcf.gz.tbi
+0257bc|OK  |   8.9MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D03.annotated.nh.vcf.gz.tbi
+235a1b|OK  |    13MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H08.annotated.nh.vcf.gz.tbi
+8dc09a|OK  |    20MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C08.annotated.nh.vcf.gz.tbi
+58d33b|OK  |    20MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E08.annotated.nh.vcf.gz.tbi
+b5f3e8|OK  |   7.5MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_C02.annotated.nh.vcf.gz.tbi
+9236df|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_E10.annotated.nh.vcf.gz.tbi
+5e79de|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_H10.annotated.nh.vcf.gz.tbi
+ab6843|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F01.annotated.nh.vcf.gz.tbi
+ad2c12|OK  |   8.7MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_A04.annotated.nh.vcf.gz.tbi
+87dd0c|OK  |    15MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C11.annotated.nh.vcf.gz.tbi
+ef03f0|OK  |    15MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_G11.annotated.nh.vcf.gz.tbi
+40ce0b|OK  |   4.8MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G03.annotated.nh.vcf.gz.tbi
+30cc0b|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_G08.annotated.nh.vcf.gz.tbi
+cacdd3|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_G01.annotated.nh.vcf.gz.tbi
+2d14e3|OK  |   8.1MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_A12.annotated.nh.vcf.gz.tbi
+43c850|OK  |    23MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E06.annotated.nh.vcf.gz.tbi
+ae57f1|OK  |    20MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_C09.annotated.nh.vcf.gz.tbi
+14f9d4|OK  |    22MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G04.annotated.nh.vcf.gz.tbi
+755e61|OK  |   6.2MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G08.annotated.nh.vcf.gz.tbi
+9346e4|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_D11.annotated.nh.vcf.gz.tbi
+6b46c2|OK  |   8.2MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004472.annotated.nh.vcf.gz.tbi
+e8a351|OK  |    21MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_A02.annotated.nh.vcf.gz.tbi
+866910|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_H03.annotated.nh.vcf.gz.tbi
+24b146|OK  |    24MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_D01.annotated.nh.vcf.gz.tbi
+f885fa|OK  |    15MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_B02.annotated.nh.vcf.gz.tbi
+e227e3|OK  |   5.6MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D09.annotated.nh.vcf.gz.tbi
+e81427|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E09.annotated.nh.vcf.gz.tbi
+6d8194|OK  |   8.3MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D04.annotated.nh.vcf.gz.tbi
+6e37b0|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_H08.annotated.nh.vcf.gz.tbi
+b49500|OK  |   7.6MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_C04.annotated.nh.vcf.gz.tbi
+d45b64|OK  |    22MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C09.annotated.nh.vcf.gz.tbi
+b658bb|OK  |   7.3MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_H11.annotated.nh.vcf.gz.tbi
+d3a031|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A09.annotated.nh.vcf.gz.tbi
+56415e|OK  |    13MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_F11.annotated.nh.vcf.gz.tbi
+4f91ed|OK  |    14MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_B11.annotated.nh.vcf.gz.tbi
+caa0b1|OK  |    16MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_E09.annotated.nh.vcf.gz.tbi
+aa6125|OK  |    23MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G04.annotated.nh.vcf.gz.tbi
+dedff8|OK  |   6.9MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004473.annotated.nh.vcf.gz.tbi
+bb03ef|OK  |   7.1MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_D09.annotated.nh.vcf.gz.tbi
+99ec44|OK  |   7.0MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G12.annotated.nh.vcf.gz.tbi
+b7a2b2|OK  |    23MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004467.annotated.nh.vcf.gz.tbi
+6531a6|OK  |   7.2MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_C07.annotated.nh.vcf.gz.tbi
+8b5ef3|OK  |    22MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C07.annotated.nh.vcf.gz.tbi
+de7263|OK  |   7.4MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F07.annotated.nh.vcf.gz.tbi
+0fc94f|OK  |   8.6MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G02.annotated.nh.vcf.gz.tbi
+14ef8d|OK  |    13MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004471.annotated.nh.vcf.gz.tbi
+1bef6b|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E10.annotated.nh.vcf.gz.tbi
+cd6c71|OK  |    13MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_E02.annotated.nh.vcf.gz.tbi
+1b3ef2|OK  |   8.0MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G11.annotated.nh.vcf.gz.tbi
+eccef1|OK  |    18MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B01.annotated.nh.vcf.gz.tbi
+17f591|OK  |    19MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B09.annotated.nh.vcf.gz.tbi
+6a8643|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_A02.annotated.nh.vcf.gz.tbi
+877f2d|OK  |   5.5MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005619-DNA_B01.annotated.nh.vcf.gz.tbi
+ac3a06|OK  |    19MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_F02.annotated.nh.vcf.gz.tbi
+ef1fc3|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_D10.annotated.nh.vcf.gz.tbi
+53c5ae|OK  |   6.0MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G07.annotated.nh.vcf.gz.tbi
+39b3f1|OK  |    18MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B11.annotated.nh.vcf.gz.tbi
+370caa|OK  |    21MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D07.annotated.nh.vcf.gz.tbi
+fa45ac|OK  |   7.1MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_G04.annotated.nh.vcf.gz.tbi
+6007db|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_E10.annotated.nh.vcf.gz.tbi
+94edce|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_G03.annotated.nh.vcf.gz.tbi
+0f432d|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F02.annotated.nh.vcf.gz.tbi
+9cd53c|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E02.annotated.nh.vcf.gz.tbi
+e47661|OK  |    18MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A04.annotated.nh.vcf.gz.tbi
+096d07|OK  |   7.1MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C01.annotated.nh.vcf.gz.tbi
+4167a8|OK  |   7.3MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D02.annotated.nh.vcf.gz.tbi
+d8b4cd|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H09.annotated.nh.vcf.gz.tbi
+4d8fbb|OK  |   7.9MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_A05.annotated.nh.vcf.gz.tbi
+5b560b|OK  |    24MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004478.annotated.nh.vcf.gz.tbi
+de602d|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_E06.annotated.nh.vcf.gz.tbi
+b2c4ef|OK  |    18MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_E12.annotated.nh.vcf.gz.tbi
+96917d|OK  |    22MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F08.annotated.nh.vcf.gz.tbi
+5215ce|OK  |    20MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D10.annotated.nh.vcf.gz.tbi
+a719c8|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_C06.annotated.nh.vcf.gz.tbi
+2e0e85|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C10.annotated.nh.vcf.gz.tbi
+e55ca0|OK  |    19MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D04.annotated.nh.vcf.gz.tbi
+b54945|OK  |    19MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_B04.annotated.nh.vcf.gz.tbi
+0475b0|OK  |   7.1MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_B03.annotated.nh.vcf.gz.tbi
+7bf2b6|OK  |   6.8MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004475.annotated.nh.vcf.gz.tbi
+e0c86e|OK  |   6.7MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_D03.annotated.nh.vcf.gz.tbi
+d66c9f|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_D03.annotated.nh.vcf.gz.tbi
+68b2ad|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_C08.annotated.nh.vcf.gz.tbi
+e46998|OK  |   8.1MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_C03.annotated.nh.vcf.gz.tbi
+8570a9|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A12.annotated.nh.vcf.gz.tbi
+26915a|OK  |   8.3MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_A06.annotated.nh.vcf.gz.tbi
+735b01|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_F12.annotated.nh.vcf.gz.tbi
+ba70a8|OK  |   8.7MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F09.annotated.nh.vcf.gz.tbi
+71c122|OK  |    17MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F02.annotated.nh.vcf.gz.tbi
+9c3cb0|OK  |   8.0MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_D01.annotated.nh.vcf.gz.tbi
+c479ed|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G09.annotated.nh.vcf.gz.tbi
+8a64bf|OK  |   7.7MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F06.annotated.nh.vcf.gz.tbi
+324513|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E05.annotated.nh.vcf.gz.tbi
+53b620|OK  |   8.7MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_H03.annotated.nh.vcf.gz.tbi
+109c28|OK  |    20MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H12.annotated.nh.vcf.gz.tbi
+22cac8|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G09.annotated.nh.vcf.gz.tbi
+6df111|OK  |   5.2MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_D08.annotated.nh.vcf.gz.tbi
+ff1f03|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_G02.annotated.nh.vcf.gz.tbi
+ac7709|OK  |   8.8MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F07.annotated.nh.vcf.gz.tbi
+1dd43d|OK  |    20MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_F01.annotated.nh.vcf.gz.tbi
+46ea68|OK  |   7.3MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D03.annotated.nh.vcf.gz.tbi
+0f7470|OK  |    23MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_H05.annotated.nh.vcf.gz.tbi
+53c111|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_E03.annotated.nh.vcf.gz.tbi
+b69044|OK  |   5.6MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_E02.annotated.nh.vcf.gz.tbi
+fd129a|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F03.annotated.nh.vcf.gz.tbi
+dde372|OK  |    13MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_H11.annotated.nh.vcf.gz.tbi
+f3ca08|OK  |    13MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H11.annotated.nh.vcf.gz.tbi
+b40926|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_B02.annotated.nh.vcf.gz.tbi
+f2f559|OK  |    19MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D06.annotated.nh.vcf.gz.tbi
+b9796d|OK  |   7.7MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D12.annotated.nh.vcf.gz.tbi
+f8a32d|OK  |    13MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A05.annotated.nh.vcf.gz.tbi
+1ba1f1|OK  |   9.3MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_F03.annotated.nh.vcf.gz.tbi
+c34dd1|OK  |    53MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_D03.annotated.nh.vcf.gz.tbi
+700ca4|OK  |    16MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_A01.annotated.nh.vcf.gz.tbi
+0acd60|OK  |   5.8MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_A03.annotated.nh.vcf.gz.tbi
+ee3a3f|OK  |   7.2MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B08.annotated.nh.vcf.gz.tbi
+edd329|OK  |   7.9MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F10.annotated.nh.vcf.gz.tbi
+4863ac|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_F04.annotated.nh.vcf.gz.tbi
+0f5eb9|OK  |   8.3MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_E05.annotated.nh.vcf.gz.tbi
+a35b7a|OK  |   8.2MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_A04.annotated.nh.vcf.gz.tbi
+0839b2|OK  |    17MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E11.annotated.nh.vcf.gz.tbi
+03d2eb|OK  |   6.9MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C05.annotated.nh.vcf.gz.tbi
+2a767c|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_H12.annotated.nh.vcf.gz.tbi
+c729cd|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B04.annotated.nh.vcf.gz.tbi
+24136a|OK  |   9.7MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_E08.annotated.nh.vcf.gz.tbi
+a98e3e|OK  |    21MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_H07.annotated.nh.vcf.gz.tbi
+b6a897|OK  |   7.6MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_H07.annotated.nh.vcf.gz.tbi
+000993|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_F10.annotated.nh.vcf.gz.tbi
+da5b39|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D06.annotated.nh.vcf.gz.tbi
+9daf69|OK  |   8.2MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_D01.annotated.nh.vcf.gz.tbi
+c8bc7e|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D08.annotated.nh.vcf.gz.tbi
+d49f27|OK  |    25MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_A07.annotated.nh.vcf.gz.tbi
+474e54|OK  |   7.5MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_C01.annotated.nh.vcf.gz.tbi
+c1df04|OK  |   8.1MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A10.annotated.nh.vcf.gz.tbi
+07a247|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_C03.annotated.nh.vcf.gz.tbi
+3c778a|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_B04.annotated.nh.vcf.gz.tbi
+e1d22b|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_B10.annotated.nh.vcf.gz.tbi
+0ccf80|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F11.annotated.nh.vcf.gz.tbi
+1dc1b2|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_G04.annotated.nh.vcf.gz.tbi
+3fe6b2|OK  |    22MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_G03.annotated.nh.vcf.gz.tbi
+ad8bd4|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G10.annotated.nh.vcf.gz.tbi
+0dd2fb|OK  |   8.3MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6007069-DNA_A01.annotated.nh.vcf.gz.tbi
+825761|OK  |    21MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_C05.annotated.nh.vcf.gz.tbi
+e0711d|OK  |   8.7MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A11.annotated.nh.vcf.gz.tbi
+6b3222|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_A03.annotated.nh.vcf.gz.tbi
+073bc7|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_D03.annotated.nh.vcf.gz.tbi
+2d11df|OK  |   7.8MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_A06.annotated.nh.vcf.gz.tbi
+823bac|OK  |    20MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6007068-DNA_A01.annotated.nh.vcf.gz.tbi
+f25e20|OK  |   7.5MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_F01.annotated.nh.vcf.gz.tbi
+55cf46|OK  |   8.5MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G10.annotated.nh.vcf.gz.tbi
+deed30|OK  |   8.5MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_G01.annotated.nh.vcf.gz.tbi
+d78cb9|OK  |    18MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_A08.annotated.nh.vcf.gz.tbi
+3d46d7|OK  |   7.2MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_A04.annotated.nh.vcf.gz.tbi
+c14423|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B10.annotated.nh.vcf.gz.tbi
+4d9246|OK  |   7.8MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005619-DNA_C01.annotated.nh.vcf.gz.tbi
+12b2df|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A08.annotated.nh.vcf.gz.tbi
+f19226|OK  |    14MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G05.annotated.nh.vcf.gz.tbi
+8e2884|OK  |   8.4MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_G05.annotated.nh.vcf.gz.tbi
+b801f7|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_C05.annotated.nh.vcf.gz.tbi
+751201|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_E04.annotated.nh.vcf.gz.tbi
+0e216c|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_F03.annotated.nh.vcf.gz.tbi
+4d1600|OK  |   7.7MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_A02.annotated.nh.vcf.gz.tbi
+da5660|OK  |   7.0MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D01.annotated.nh.vcf.gz.tbi
+d50125|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/SS6004479.annotated.nh.vcf.gz.tbi
+c1852f|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_B01.annotated.nh.vcf.gz.tbi
+a058e5|OK  |   7.3MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_D04.annotated.nh.vcf.gz.tbi
+dadbec|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F04.annotated.nh.vcf.gz.tbi
+5a0cae|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D08.annotated.nh.vcf.gz.tbi
+ba414a|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_B05.annotated.nh.vcf.gz.tbi
+d6e6bb|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_D05.annotated.nh.vcf.gz.tbi
+8794f4|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_H01.annotated.nh.vcf.gz.tbi
+394119|OK  |   8.3MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B05.annotated.nh.vcf.gz.tbi
+b2c0bc|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_D06.annotated.nh.vcf.gz.tbi
+384d2e|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D01.annotated.nh.vcf.gz.tbi
+5cab23|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B04.annotated.nh.vcf.gz.tbi
+5e669d|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005677-DNA_E01.annotated.nh.vcf.gz.tbi
+4945ea|OK  |    11MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_C02.annotated.nh.vcf.gz.tbi
+2b709f|OK  |    22MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_G03.annotated.nh.vcf.gz.tbi
+4c4dcf|OK  |   6.1MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_C04.annotated.nh.vcf.gz.tbi
+14f6c7|OK  |   6.2MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_H01.annotated.nh.vcf.gz.tbi
+458093|OK  |   9.0MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_C02.annotated.nh.vcf.gz.tbi
+174389|OK  |    18MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F01.annotated.nh.vcf.gz.tbi
+ec952b|OK  |   8.0MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B06.annotated.nh.vcf.gz.tbi
+869398|OK  |    23MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_C03.annotated.nh.vcf.gz.tbi
+fb7b57|OK  |   8.5MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_F06.annotated.nh.vcf.gz.tbi
+393f54|OK  |   7.5MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_B01.annotated.nh.vcf.gz.tbi
+49cc79|OK  |    10MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F03.annotated.nh.vcf.gz.tbi
+cb83c4|OK  |    13MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_F01.annotated.nh.vcf.gz.tbi
+7a361e|OK  |    22MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_G01.annotated.nh.vcf.gz.tbi
+ebb444|OK  |    15MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_H04.annotated.nh.vcf.gz.tbi
+58e456|OK  |   7.4MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_H01.annotated.nh.vcf.gz.tbi
+857468|OK  |    14MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005442-DNA_G01.annotated.nh.vcf.gz.tbi
+00e84c|OK  |    19MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B10.annotated.nh.vcf.gz.tbi
+bacdc3|OK  |   6.0MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_C03.annotated.nh.vcf.gz.tbi
+a322dd|OK  |   9.5MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_B06.annotated.nh.vcf.gz.tbi
+abb77e|OK  |    15MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_E05.annotated.nh.vcf.gz.tbi
+8050d1|OK  |   6.2MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B02.annotated.nh.vcf.gz.tbi
+93d358|OK  |    13MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_B02.annotated.nh.vcf.gz.tbi
+14f87e|OK  |    17MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F05.annotated.nh.vcf.gz.tbi
+f4255e|OK  |   8.5MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_C07.annotated.nh.vcf.gz.tbi
+1a7287|OK  |   6.9MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_D01.annotated.nh.vcf.gz.tbi
+43bb12|OK  |    13MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_E01.annotated.nh.vcf.gz.tbi
+3cd684|OK  |   8.9MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E01.annotated.nh.vcf.gz.tbi
+84119b|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_E07.annotated.nh.vcf.gz.tbi
+3c6434|OK  |    22MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_D05.annotated.nh.vcf.gz.tbi
+e69f7b|OK  |    18MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_A06.annotated.nh.vcf.gz.tbi
+84821c|OK  |   7.3MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_F12.annotated.nh.vcf.gz.tbi
+ad5e6e|OK  |   104MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_G02.annotated.nh.vcf.gz.tbi
+18a076|OK  |    12MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_B07.annotated.nh.vcf.gz.tbi
+86f1ae|OK  |   5.8MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005519-DNA_D05.annotated.nh.vcf.gz.tbi
+78993a|OK  |    23MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_C06.annotated.nh.vcf.gz.tbi
+d51fc8|OK  |    13MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_C06.annotated.nh.vcf.gz.tbi
+293433|OK  |       0B/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_F10.annotated.nh.vcf.gz.tbi
+d1cc13|OK  |   8.6MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_G12.annotated.nh.vcf.gz.tbi
+73b547|OK  |       0B/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005443-DNA_G07.annotated.nh.vcf.gz.tbi
+7e95b1|OK  |    16MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005441-DNA_B06.annotated.nh.vcf.gz.tbi
+193505|OK  |   7.5MiB/s|/data/mschatz1/lmill153/pop-evo-hotspots/data/SGDP/SGDP_GRCh37/LP6005592-DNA_H03.annotated.nh.vcf.gz.tbi
+
+Status Legend:
+(OK):download completed.
